@@ -1,0 +1,239 @@
+[
+{
+    "id":"01",
+    "nombre":"Manzana",
+    "precio":"120",
+    "url":"https://s1.elespanol.com/2021/09/17/ciencia/nutricion/612699746_208614861_1024x576.jpg"
+},
+{
+
+    "id":"02",
+    "nombre":"Banana",
+    "precio":"100",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P017844-1.jpg?20221104104756,Banana-Ecuador-Kg-en-Tienda-Inglesa"
+},
+{
+    "id":"03",
+    "nombre":"Pera",
+    "precio":"90",
+    "url":"https://juanesparraguito.com/cdn/shop/files/FotosWeb_parte1_Mesadetrabajo1copia77_1024x1024@2x.jpg?v=1710855795"
+},
+{
+    "id":"04",
+    "nombre":"Anana",
+    "precio":"70",
+    "url":"https://greenpointuy.com/cdn/shop/products/Anana.jpg?v=1618238928"
+},
+{
+    "id":"05",
+    "nombre":"Uvas",
+    "precio":"95",
+    "url":"https://fundaciondelcorazon.com/images/stories/corazon-facil/impulso-vital/uvas.jpg"
+
+},
+{
+    "id":"06",
+    "nombre":"Naranja",
+    "precio":"75",
+    "url":"https://historiasdelahistoria.com/wp-content/uploads/2015/11/naranja.jpg"
+},
+{
+    "id":"07",
+    "nombre":"Arandanos",
+    "precio":"95",
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsA01kpMqeZgYexcPBGvHdMCWqs_-o5zkAA&s"
+},
+
+{
+    "id":"08",
+    "nombre":"Agua",
+    "precio":"50",
+    "url":"https://www.ararat.com.uy/staging/3498/wp-content/uploads/2022/09/bebida-agua-salus-sin-gas-500-ml.webp"
+},
+
+{
+    "id":"09",
+    "nombre":"Pepsi",
+    "precio":"125",
+    "url":"https://www.distribuidorabebidas.com.uy/wp-content/uploads/sites/31/2021/05/pepsi-500.jpg"
+},
+
+{
+    "id":"10",
+    "nombre":"Coca Cola",
+    "precio":"125",
+    "url":"https://www.distribuidorabebidas.com.uy/wp-content/uploads/sites/31/2018/05/comun-600.jpg"
+},
+
+{
+    "id":"11",
+    "nombre":"Guarana",
+    "precio":"125",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P419840-1.jpg?20220217095052,GUARANa-Antartica-Zero-en-Lata-350ml-en-Tienda-Inglesa"
+},
+
+{
+    "id":"12",
+    "nombre":"Cigarrillos",
+    "precio":"150",
+    "url":"https://media.istockphoto.com/id/504043224/es/foto/paquete-de-cigarrillos-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=pMN6LmTPDzIR2tnEBy8HEemfN1iMFtEzZRoI9rIEIM4="
+},
+
+{
+    "id":"13",
+    "nombre":"Cerveza",
+    "precio":"150",
+    "url":"https://www.distribuidorabebidas.com.uy/wp-content/uploads/sites/31/2018/01/cerveza_pilsen_botella_retornarble_litro.jpg"
+},
+
+{
+    "id":"14",
+    "nombre":"Harina",
+    "precio":"50",
+    "url":"https://discouy.vtexassets.com/arquivos/ids/1806594/Harina-0000-CA%C3%91UELAS-1-kg-0.jpg?v=638518073879530000"
+},
+
+{
+    "id":"15",
+    "nombre":"Maizena",
+    "precio":"65",
+    "url":"https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/krr/krr71127/y/8.jpg"
+},
+
+{
+    "id":"16",
+    "nombre":"Royal",
+    "precio":"35",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P000404-1.jpg?20210717030014,Polvo-Para-Hornear-ROYAL-200-gr-en-Tienda-Inglesa"
+},
+
+{
+    "id":"17",
+    "nombre":"Red label",
+    "precio":"350",
+    "url":"https://cachi.uy/wp-content/uploads/Whisky_Johnnie_Walker_Red_Label_1lt__1.jpg"
+},
+
+{
+    "id":"18",
+    "nombre":"Black label",
+    "precio":"500",
+    "url":"https://canillalibre.uy/wp-content/uploads/2021/03/6992BB40-0499-4908-BEC3-31A23B590B17.jpeg"
+},
+
+{
+    "id":"19",
+    "nombre":"Gin",
+    "precio":"250",
+    "url":"https://f.fcdn.app/imgs/872840/lasacristia.com.uy/scr/26d9/original/catalogo/120182412018241/1920-1200/gin-tanqueray-london-dry-gin-tanqueray-london-dry.jpg"
+},
+
+{
+    "id":"20",
+    "nombre":"Vodka",
+    "precio":"275",
+    "url":"https://discouy.vtexassets.com/arquivos/ids/1764313/Vodka-SMIRNOFF-Red-750-ml-0.jpg?v=638507811195230000"
+},
+
+{
+    "id":"21",
+    "nombre":"Ron",
+    "precio":"275",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P322314-1.jpg?20220111110027,Ron-HAVANA-CLUB-Anejo-3-Anos-Blanco-750-ml-en-Tienda-Inglesa"
+},
+
+{
+    "id":"22",
+    "nombre":"Tequila",
+    "precio":"235",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P248686-1.jpg?20201023131618,Tequila-JOSe-CUERVO-Plata-750-ml-en-Tienda-Inglesa"
+},
+
+{
+    "id":"23",
+    "nombre":"Vasos",
+    "precio":"135",
+    "url":"https://discouy.vtexassets.com/arquivos/ids/1789969/Set-x-6-vasos-0.jpg?v=638507836967600000"
+},
+
+{
+    "id":"24",
+    "nombre":"Tazas",
+    "precio":"85",
+    "url":"https://www.silverled.com.uy/wp-content/uploads/2023/11/D_800529-MLU54910508042_042023-F.jpg"
+},
+
+
+{
+    "id":"25",
+    "nombre":"Cuchillos",
+    "precio":"270",
+    "url":"https://f.fcdn.app/imgs/d11ee3/www.divino.com.uy/div/8d5c/original/catalogo/274435001_0/2000-2000/set-6-cuchillos-gris-acero-inoxidable-y-barra-magnetica.jpg"
+},
+
+{
+    "id":"26",
+    "nombre":"Vainilla",
+    "precio":"200",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P033105-1.jpg?20171201030157,Esencia-de-Vainilla-MONTE-CUDINE-60ml-en-Tienda-Inglesa"
+},
+
+{
+    "id":"27",
+    "nombre":"Aceitunas",
+    "precio":"165",
+    "url":"https://hosteleriaecuador.com/wp-content/uploads/eulat-6.png"
+},
+
+{
+    "id":"28",
+    "nombre":"Frutillas",
+    "precio":"155",
+    "url":"https://www.clarin.com/2023/10/03/nt17Dprq-_2000x1500__1.jpg"
+},
+
+{
+    "id":"29",
+    "nombre":"Chocolate",
+    "precio":"260",
+    "url":"https://tiendapopular.uy/wp-content/uploads/2024/03/Chocolate-Cofler-Block-300gr.jpg"
+},
+
+{
+    "id":"30",
+    "nombre":"Chicles",
+    "precio":"60",
+    "url":"https://prod-resize.tiendainglesa.com.uy/images/medium/P418030-1.jpg?20220802230029,Chicle-Bubble-Tape-WRIGLEYS-56.7-gr-en-Tienda-Inglesa"
+},
+
+{
+    "id":"31",
+    "nombre":"Monster",
+    "precio":"250",
+    "url":"https://infonegocios.info/content/images/2022/07/21/154218/conversions/monster-interna-800x453-medium-size.jpg"
+},
+{
+    "id":"32",
+    "nombre":"Aluminio",
+    "precio":"80",
+    "url":"https://todoplas.uy/cdn/shop/products/rollo-papel-aluminio-todoplasuy_grande.jpg?v=1636038863"
+},
+{
+    "id":"33",
+    "nombre":"Agua tonica",
+    "precio":"65",
+    "url":"https://tito.uy/wp-content/uploads/Schweppes-Agua-Tonica-s-s-500-Ml.jpg"
+},
+{
+    "id":"34",
+    "nombre":"Papel higienico",
+    "precio":"25",
+    "url":"https://www.cofas.com.uy/wp-content/uploads/2024/04/414898.jpg"
+},
+{
+    "id":"35",
+    "nombre":"Agua jane",
+    "precio":"60",
+    "url":"https://cdn.luna.com.uy/districomp.com.uy/files/tmp/compressed/normal/c514b7lu5abbjub0ca8u.jpg"
+}
+]
